@@ -1,3 +1,4 @@
 ---
 swap_size: 1G
+swap_file: "/swapfile"
 

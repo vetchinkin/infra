@@ -2,4 +2,5 @@
 - hosts: db
   roles:
      - { role: 'common' }
+     - { role: 'swaptrasher' }
 
